@@ -1,6 +1,6 @@
 - 👋 @HiIamTommy
 - 👀 I’m interested in coding and discovering new challanges
-- 🌱 I’m currently learning .NET and web development 
+- 🌱 I’m currently learning mobile and web development 
 - 📫 U can reach me via discord Shadder#6844
 
 <!---
