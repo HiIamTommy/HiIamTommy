@@ -1,5 +1,5 @@
 - 👋 @HiIamTommy
-- 👀 I've just started as an iOS developer and I am pretty hooked up.
+- 👀 I'm a junior iOS developer 
 - 🌱 I'm very friendly and like talking to other people 
 - 📫 U can reach me via discord Shadder#6844
 
