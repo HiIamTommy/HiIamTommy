@@ -1,6 +1,6 @@
 - 👋 @HiIamTommy
-- 👀 I’m interested in coding and discovering new challanges
-- 🌱 I’m currently learning mobile and web development 
+- 👀 I've just started as an iOS developer and I am pretty hooked up.
+- 🌱 I'm very friendly and like talking to other people 
 - 📫 U can reach me via discord Shadder#6844
 
 <!---
